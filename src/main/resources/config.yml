@@ -1,0 +1,17 @@
+messages:
+  no-args: "<red>/vanish <on|off|toggle|item>"
+  unknown-command: "<red>Comando sconosciuto."
+  vanished: "<green>Sei in vanish!"
+  unvanished: "<red>Non sei più in vanish!"
+  only-player: "<red>Solo i giocatori possono eseguire questo comando."
+items:
+  vanish:
+    material: REDSTONE
+    name: "<green>Clicca per <red>disabilitare</red> vanish"
+    lore:
+      - ""
+  unvanish:
+    material: GREEN_DYE
+    name: "<red>Clicca per <green>abilitare</green> vanish"
+    lore:
+      - ""

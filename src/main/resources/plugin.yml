@@ -1,0 +1,4 @@
+name: ProudVanish
+version: '1.0-SNAPSHOT'
+main: me.peppecrouch.proudvanish.ProudVanish
+api-version: '1.21'
